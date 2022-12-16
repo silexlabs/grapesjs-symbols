@@ -1,6 +1,6 @@
 name: Run tests
 
-on: [push]
+on: [push, test]
 
 jobs:
   build:

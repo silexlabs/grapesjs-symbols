@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This project has moved to the Silex monorepo: https://short.silex.me/code
+>
+> Please open issues and pull requests there.
+>
+> The npm package is no longer maintained on its own. Details and how to help: https://github.com/GrapesJS/grapesjs/discussions/6779
+
+
 [![Run tests](https://github.com/silexlabs/grapesjs-symbols/actions/workflows/test.yml/badge.svg)](https://github.com/silexlabs/grapesjs-symbols/actions/workflows/test.yml)
 
 # Symbols plugin for GrapesJS
